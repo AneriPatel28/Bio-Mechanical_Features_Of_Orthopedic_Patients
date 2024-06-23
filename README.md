@@ -4,11 +4,6 @@
 
 This project aims to classify patients into two categories (Normal and Abnormal) based on six biomechanical attributes derived from the shape and orientation of the pelvis and lumbar spine. The categories Disk Hernia and Spondylolisthesis are merged into a single 'abnormal' category. Our goal is to utilize various machine learning algorithms to effectively classify these patients.
 
-## Team Members
-- Bansi Koradiya
-- Jinal Makwana
-- Aneri Patel
-
 ## Installation
 
 To run this project, you will need Python and the following libraries:
